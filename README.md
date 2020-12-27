@@ -1,5 +1,6 @@
 # StayHome
 StayHome Covid-19 (Coronavirus) Tracker Android App
+[DOWNLOAD StayHome Covid-19 Tracker App](https://github.com/gencharitaci/StayHome/releases/download/1.0.0/StayHome.apk)
 
 ![alt text](https://github.com/gencharitaci/StayHome/blob/master/screenshot-10.jpg?raw=true)
 ![alt text](https://github.com/gencharitaci/StayHome/blob/master/screenshot-1.jpg?raw=true)
